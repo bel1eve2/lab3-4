@@ -1,0 +1,105 @@
+{
+    "banners": [
+      {
+        "title": "Summer Sale",
+        "description": "Enjoy up to 50% off on all summer products!",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0q-i41TQyw_vgvkZsX0yqcEWU4X3kKwaorQ&s"
+      },
+      {
+        "title": "New Arrivals",
+        "description": "Check out the latest trends in our collection.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0q-i41TQyw_vgvkZsX0yqcEWU4X3kKwaorQ&s"
+      },
+      {
+        "title": "Holiday Discounts",
+        "description": "Get amazing discounts on holiday gifts and more!",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0q-i41TQyw_vgvkZsX0yqcEWU4X3kKwaorQ&s"
+      },
+      {
+        "title": "Exclusive Offer",
+        "description": "Sign up now and get an exclusive 10% discount.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0q-i41TQyw_vgvkZsX0yqcEWU4X3kKwaorQ&s"
+      }
+    ],
+    "categories": [
+    {
+      "title": "Cardiology",
+      "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0q-i41TQyw_vgvkZsX0yqcEWU4X3kKwaorQ&s"
+    },
+    {
+      "title": "Dentistry",
+      "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0q-i41TQyw_vgvkZsX0yqcEWU4X3kKwaorQ&s"
+    },
+    {
+      "title": "Orthopedics",
+      "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0q-i41TQyw_vgvkZsX0yqcEWU4X3kKwaorQ&s"
+    },
+    {
+      "title": "Dermatology",
+      "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0q-i41TQyw_vgvkZsX0yqcEWU4X3kKwaorQ&s"
+    },
+    {
+      "title": "Pediatrics",
+      "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0q-i41TQyw_vgvkZsX0yqcEWU4X3kKwaorQ&s"
+    },
+    {
+      "title": "Ophthalmology",
+      "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0q-i41TQyw_vgvkZsX0yqcEWU4X3kKwaorQ&s"
+    }
+  ],
+  "nearby_centers": [
+    {
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0q-i41TQyw_vgvkZsX0yqcEWU4X3kKwaorQ&s",
+      "title": "Medical Center 1",
+      "location_name": "Location 1",
+      "review_rate": 4.1,
+      "count_reviews": 102,
+      "distance_km": 1.1,
+      "distance_minutes": 6
+    },
+    {
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0q-i41TQyw_vgvkZsX0yqcEWU4X3kKwaorQ&s",
+      "title": "Medical Center 2",
+      "location_name": "Location 2",
+      "review_rate": 4.2,
+      "count_reviews": 104,
+      "distance_km": 1.1,
+      "distance_minutes": 7
+    },
+    {
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0q-i41TQyw_vgvkZsX0yqcEWU4X3kKwaorQ&s",
+      "title": "Medical Center 3",
+      "location_name": "Location 3",
+      "review_rate": 4.3,
+      "count_reviews": 106,
+      "distance_km": 1.1,
+      "distance_minutes": 8
+    }
+],
+    "doctors": [
+    {
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0q-i41TQyw_vgvkZsX0yqcEWU4X3kKwaorQ&s",
+      "full_name": "Dr. Full Name 1",
+      "type_of_doctor": "Cardiologist",
+      "location_of_center": "Health Center 1, USA",
+      "review_rate": 4.1,
+      "reviews_count": 53
+    },
+    {
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0q-i41TQyw_vgvkZsX0yqcEWU4X3kKwaorQ&s",
+      "full_name": "Dr. Full Name 2",
+      "type_of_doctor": "Pediatrician",
+      "location_of_center": "Health Center 2, USA",
+      "review_rate": 4.2,
+      "reviews_count": 56
+    },
+    {
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0q-i41TQyw_vgvkZsX0yqcEWU4X3kKwaorQ&s",
+      "full_name": "Dr. Full Name 3",
+      "type_of_doctor": "Dermatologist",
+      "location_of_center": "Health Center 3, USA",
+      "review_rate": 4.3,
+      "reviews_count": 59
+    }
+]
+}
