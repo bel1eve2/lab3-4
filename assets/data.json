@@ -3,53 +3,53 @@
       {
         "title": "Summer Sale",
         "description": "Enjoy up to 50% off on all summer products!",
-        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0q-i41TQyw_vgvkZsX0yqcEWU4X3kKwaorQ&s"
+        "image": "https://media.gettyimages.com/id/1155906140/video/summer-sale.jpg?s=640x640&k=20&c=OWAvN-uZ4VV0hv40lLFekMOHcB7z6URA8_sNXAmx0ac="
       },
       {
         "title": "New Arrivals",
         "description": "Check out the latest trends in our collection.",
-        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0q-i41TQyw_vgvkZsX0yqcEWU4X3kKwaorQ&s"
+        "image": "https://t3.ftcdn.net/jpg/02/67/65/76/360_F_267657605_qgGbYzq3A7QQsWNH33ALAAAyiEN7ekXL.jpg"
       },
       {
         "title": "Holiday Discounts",
         "description": "Get amazing discounts on holiday gifts and more!",
-        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0q-i41TQyw_vgvkZsX0yqcEWU4X3kKwaorQ&s"
+        "image": "https://st2.depositphotos.com/2250467/8367/v/950/depositphotos_83676692-stock-illustration-big-sale-holiday-discount.jpg"
       },
       {
         "title": "Exclusive Offer",
         "description": "Sign up now and get an exclusive 10% discount.",
-        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0q-i41TQyw_vgvkZsX0yqcEWU4X3kKwaorQ&s"
+        "image": "https://img.freepik.com/premium-vector/exclusive-offer-sale-banner-design_686319-784.jpg?semt=ais_hybrid"
       }
     ],
     "categories": [
     {
       "title": "Cardiology",
-      "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0q-i41TQyw_vgvkZsX0yqcEWU4X3kKwaorQ&s"
+      "icon": "https://t4.ftcdn.net/jpg/06/31/15/69/360_F_631156993_X69R97Mj2aYB3F7Qv6n2SYmjQpLJ3phd.jpg"
     },
     {
       "title": "Dentistry",
-      "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0q-i41TQyw_vgvkZsX0yqcEWU4X3kKwaorQ&s"
+      "icon": "https://c1.wallpaperflare.com/preview/289/347/808/zahnreinigung-dental-repairs-treat-teeth-brushing-teeth.jpg"
     },
     {
       "title": "Orthopedics",
-      "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0q-i41TQyw_vgvkZsX0yqcEWU4X3kKwaorQ&s"
+      "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNBG83oCzfZ1Ulgf11knPPVab_A3JGDML7Cw&s"
     },
     {
       "title": "Dermatology",
-      "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0q-i41TQyw_vgvkZsX0yqcEWU4X3kKwaorQ&s"
+      "icon": "https://img.freepik.com/free-photo/view-from-rejuvenation-beautiful-woman-enjoying-cosmetology-procedures-beauty-salon-dermatology-hands-blue-glows-healthcare-therapy-botox_197531-2783.jpg?semt=ais_hybrid"
     },
     {
       "title": "Pediatrics",
-      "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0q-i41TQyw_vgvkZsX0yqcEWU4X3kKwaorQ&s"
+      "icon": "https://www.shutterstock.com/shutterstock/videos/1106748819/thumb/1.jpg?ip=x480"
     },
     {
       "title": "Ophthalmology",
-      "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0q-i41TQyw_vgvkZsX0yqcEWU4X3kKwaorQ&s"
+      "icon": "https://wallpapercave.com/wp/wp10578001.jpg"
     }
   ],
   "nearby_centers": [
     {
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0q-i41TQyw_vgvkZsX0yqcEWU4X3kKwaorQ&s",
+      "image": "https://media.istockphoto.com/id/1364075546/photo/empty-corridor-in-modern-hospital-with-information-counter-and-hospital-bed-in-rooms-3d.jpg?s=612x612&w=0&k=20&c=xxFDmIVpH1wJaaiorpvfzec4RRggSb48PDb_dU9bTjo=",
       "title": "Medical Center 1",
       "location_name": "Location 1",
       "review_rate": 4.1,
@@ -58,7 +58,7 @@
       "distance_minutes": 6
     },
     {
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0q-i41TQyw_vgvkZsX0yqcEWU4X3kKwaorQ&s",
+      "image": "https://www.shutterstock.com/shutterstock/videos/1098794217/thumb/3.jpg?ip=x480",
       "title": "Medical Center 2",
       "location_name": "Location 2",
       "review_rate": 4.2,
@@ -67,7 +67,7 @@
       "distance_minutes": 7
     },
     {
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0q-i41TQyw_vgvkZsX0yqcEWU4X3kKwaorQ&s",
+      "image": "https://images.unsplash.com/photo-1596541223130-5d31a73fb6c6?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bWVkaWNhbCUyMGNlbnRlcnxlbnwwfHwwfHx8MA%3D%3D",
       "title": "Medical Center 3",
       "location_name": "Location 3",
       "review_rate": 4.3,
@@ -78,7 +78,7 @@
 ],
     "doctors": [
     {
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0q-i41TQyw_vgvkZsX0yqcEWU4X3kKwaorQ&s",
+      "image": "https://wallpapers.com/images/featured/doctor-kwucobzhm0etbcwy.jpg",
       "full_name": "Dr. Full Name 1",
       "type_of_doctor": "Cardiologist",
       "location_of_center": "Health Center 1, USA",
@@ -86,7 +86,7 @@
       "reviews_count": 53
     },
     {
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0q-i41TQyw_vgvkZsX0yqcEWU4X3kKwaorQ&s",
+      "image": "https://www.shutterstock.com/image-photo/experienced-gray-haired-senior-medical-260nw-750225148.jpg",
       "full_name": "Dr. Full Name 2",
       "type_of_doctor": "Pediatrician",
       "location_of_center": "Health Center 2, USA",
@@ -94,12 +94,36 @@
       "reviews_count": 56
     },
     {
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0q-i41TQyw_vgvkZsX0yqcEWU4X3kKwaorQ&s",
+      "image": "https://media.gettyimages.com/id/1334802862/video/4k-video-footage-of-a-young-male-doctor-at-work.jpg?s=640x640&k=20&c=fwnZK094YYaC33f2Lv4O5V3HQCfAXgPNBRhCN1eGZO4=",
       "full_name": "Dr. Full Name 3",
       "type_of_doctor": "Dermatologist",
       "location_of_center": "Health Center 3, USA",
       "review_rate": 4.3,
       "reviews_count": 59
+    },
+    {
+      "image": "https://media.istockphoto.com/id/1645541622/video/man-doctor-and-walking-with-phone-in-clinic-for-online-contact-healthcare-schedule-or.jpg?b=1&s=640x640&k=20&c=gvcD31s9YTmiZNcYEKUuTXHjRCbO7F-SzCpkFsq4gHs=",
+      "full_name": "Dr. Full Name 4",
+      "type_of_doctor": "Orthopedic Surgeon",
+      "location_of_center": "Health Center 4, USA",
+      "review_rate": 4.4,
+      "reviews_count": 62
+    },
+    {
+      "image": "https://e1.pxfuel.com/desktop-wallpaper/327/532/desktop-wallpaper-receiving-care-from-emergency-doctors-in-wailea-medical-doctor.jpg",
+      "full_name": "Dr. Full Name 5",
+      "type_of_doctor": "Dentist",
+      "location_of_center": "Health Center 5, USA",
+      "review_rate": 4.5,
+      "reviews_count": 65
+    },
+    {
+      "image": "https://img.freepik.com/premium-photo/doctor-high-quality-4k-ultra-hd-hdr_670382-129660.jpg",
+      "full_name": "Dr. Full Name 6",
+      "type_of_doctor": "Cardiologist",
+      "location_of_center": "Health Center 6, USA",
+      "review_rate": 4.6,
+      "reviews_count": 68
     }
 ]
 }
